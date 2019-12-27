@@ -205,8 +205,8 @@
 <script>
 import Loading from "vue-loading-overlay";
 import "vue-loading-overlay/dist/vue-loading.css";
-import { app, db } from "./firebase-config";
-import VuejsDialogMixin from "vuejs-dialog/dist/vuejs-dialog-mixin.min.js";
+import { db } from "./firebase-config";
+
 var usersRef = db.ref("crud-vuejs");
 export default {
   name: "app",

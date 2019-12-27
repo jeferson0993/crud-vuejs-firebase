@@ -11,7 +11,7 @@ export let config = {
   measurementId: "G-2TPB0JYJ7J"
 };
 
-let app = firebase.initializeApp(config);
+firebase.initializeApp(config);
 let db = firebase.database();
 
-export { app, db };
+export { db };
