@@ -40,9 +40,8 @@ The data of a student are: Name, course, Semestre.
 
 Below are some images of the CRUD with vueJS webapp
 
-[![Product Name Screen Shot][home-screenshot]](https://jeferson0993.github.io/#/)
-
-[![Product Name Screen Shot][add-screenshot]](https://jeferson0993.github.io/#/)
+![image](https://user-images.githubusercontent.com/29678099/71535792-798c0f80-28e7-11ea-9b42-b55e8ab7e10f.png)
+![image](https://user-images.githubusercontent.com/29678099/71535795-87419500-28e7-11ea-8c71-55be7221954b.png)
 
 ### Built With
 Which Languages and Libraries are used :
