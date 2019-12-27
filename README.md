@@ -17,10 +17,10 @@
   <p align="center">
     Google Firebase Realtime Database with VueJS!
     <br />
-    <a href="https://jeferson0993.github.io/#/"><strong>View Demo</strong></a>
+    <a href="https://web-projects-tests.firebaseapp.com/"><strong>View Demo</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jeferson0993/#/issues">Report Bug</a>
+    <a href="https://github.com/jeferson0993/crud-vuejs-firebase/issues">Report Bug</a>
     ·
     <a href="https://github.com/jeferson0993/">Some Others Repos</a>
   </p>
@@ -53,12 +53,12 @@ Which Languages and Libraries are used :
 
 ## Concept
 
-> [Live Demo](https://jeferson0993.github.io/#/)
+> [Live Demo](https://web-projects-tests.firebaseapp.com/)
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/jeferson0993/#/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jeferson0993/crud-vuejs-firebase/issues) for a list of proposed features (and known issues).
 
 
 
@@ -87,29 +87,29 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jeferson Ferreira - jeferson0993@gmail.com
 
-Project Link: [Repository](https://github.com/jeferson0993/#)
+Project Link: [Repository](https://github.com/jeferson0993/crud-vuejs-firebase)
 
 ---
 
 ## [Versão com Angular 8](https://github.com/jeferson0993/crud-angular8-firebase)
-## [Versão com VueJS](https://github.com/jeferson0993/)
-## [Versão com AngularJS](https://github.com/jeferson0993/)
+## [Versão com VueJS](https://github.com/jeferson0993/crud-vuejs-firebase)
+## [Versão com AngularJS](https://github.com/jeferson0993/jeferson0993-crud-angularjs-firebase)
 ## [Versão com ReactJS](https://github.com/jeferson0993/)
 ## [Versão com sVelte](https://github.com/jeferson0993/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jeferson0993/#.svg?style=flat-square
-[contributors-url]: https://github.com/jeferson0993/#/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jeferson0993/#.svg?style=flat-square
-[forks-url]: https://github.com/jeferson0993/#/network/members
-[stars-shield]: https://img.shields.io/github/stars/jeferson0993/#.svg?style=flat-square
-[stars-url]: https://github.com/jeferson0993/#/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jeferson0993/#.svg?style=flat-square
-[issues-url]: https://github.com/jeferson0993/#/issues
-[license-shield]: https://img.shields.io/github/license/jeferson0993/#.svg?style=flat-square
-[license-url]: https://github.com/jeferson0993/#/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/jeferson0993/crud-vuejs-firebase.svg?style=flat-square
+[contributors-url]: https://github.com/jeferson0993/crud-vuejs-firebase/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jeferson0993/crud-vuejs-firebase.svg?style=flat-square
+[forks-url]: https://github.com/jeferson0993/crud-vuejs-firebase/network/members
+[stars-shield]: https://img.shields.io/github/stars/jeferson0993/crud-vuejs-firebase.svg?style=flat-square
+[stars-url]: https://github.com/jeferson0993/crud-vuejs-firebase/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jeferson0993/crud-vuejs-firebase.svg?style=flat-square
+[issues-url]: https://github.com/jeferson0993/crud-vuejs-firebase/issues
+[license-shield]: https://img.shields.io/github/license/jeferson0993/crud-vuejs-firebase.svg?style=flat-square
+[license-url]: https://github.com/jeferson0993/crud-vuejs-firebase/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jeferson-ferreira-4a036b143/
 [home-screenshot]: https://user-images.githubusercontent.com/29678099/71330655-f47eb000-250c-11ea-8f5c-3069b4c708f7.png
