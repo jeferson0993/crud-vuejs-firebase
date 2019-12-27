@@ -31,12 +31,12 @@
 
  I just have doing an vueJS example website that have:
 
-    A list of students which can be filtered by name, course and by semester
-    A page to add a new student
-    A page to edit the data of a student
+    A table to show the data of students
+    A modal to add a new student
+    A modal to edit the data of a student
     Delete a student
 
-The data of a student are: Name, course, Semestre.
+The data of a student are: Name, course, Semester.
 
 Below are some images of the CRUD with vueJS webapp
 
@@ -47,7 +47,11 @@ Below are some images of the CRUD with vueJS webapp
 Which Languages and Libraries are used :
 * [VueJS](https://vuejs.org/)
 * [Firebase Realtime Database](https://firebase.google.com/products/realtime-database/)
-* [GitHub Pages](https://pages.github.com)
+* [Firebase Hosting](https://firebase.google.com/products/hosting/)
+* [MDB](https://firebase.google.com/products/hosting/)
+* [Bootstrap](https://getbootstrap.com/)
+* [jQuery](https://jquery.com/)
+* [Popper](https://popper.js.org/)
 * [Font Awesome](https://fontawesome.com)
 
 ## Concept
