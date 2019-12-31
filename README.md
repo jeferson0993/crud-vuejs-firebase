@@ -48,7 +48,6 @@ Which Languages and Libraries are used :
 * [VueJS](https://vuejs.org/)
 * [Firebase Realtime Database](https://firebase.google.com/products/realtime-database/)
 * [Firebase Hosting](https://firebase.google.com/products/hosting/)
-* [MDB](https://firebase.google.com/products/hosting/)
 * [Bootstrap](https://getbootstrap.com/)
 * [jQuery](https://jquery.com/)
 * [Popper](https://popper.js.org/)
